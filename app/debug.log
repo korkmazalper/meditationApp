@@ -1,0 +1,2 @@
+[1012/231631.393:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Das System kann die angegebene Datei nicht finden. (0x2)
+[1012/231812.347:ERROR:third_party\crashpad\crashpad\util\win\registration_protocol_win.cc:108] CreateFile: Das System kann die angegebene Datei nicht finden. (0x2)
